@@ -26,7 +26,8 @@
   "homepage": "https://github.com/bcoe/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "release-please": "^8.0.2-candidate.6"
+    "ncc": "^0.3.6",
+    "release-please": "googleapis/release-please#debug-log-node-workspace-plugin"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3",
